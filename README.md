@@ -52,3 +52,7 @@ This project demonstrates practical Excel skills in:
 - Dashboard Development
 - Financial Performance Evaluation
 
+## 📷 Dashboard Preview
+![Financial Dashboard]
+<img width="929" height="488" alt="image" src="https://github.com/user-attachments/assets/22810360-9c39-4d6d-9520-1ae8e4a5805a" />
+
